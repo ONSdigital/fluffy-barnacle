@@ -5,5 +5,5 @@ idna==2.5
 oauth2-client==0.0.15
 pkg-resources==0.0.0
 protobuf==2.6.1
-requests==2.18.2
+requests==2.20.0
 urllib3==1.22
